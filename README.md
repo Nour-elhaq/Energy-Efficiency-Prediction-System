@@ -61,4 +61,5 @@ We evaluated Linear Regression and Random Forest models. The **Random Forest Reg
 -   **Evaluation**: Check `notebooks/images/model_evaluation_dashboard.png` for a detailed breakdown of residuals and actual vs. predicted values.
 
 ---
+[![DOI](https://zenodo.org/badge/1122772259.svg)](https://doi.org/10.5281/zenodo.18054828)
 *Created for the Energy Efficiency ML Project Portfolio.*
